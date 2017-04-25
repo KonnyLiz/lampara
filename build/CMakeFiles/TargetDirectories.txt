@@ -1,0 +1,1 @@
+/home/user/git/lamparamovible/build/CMakeFiles/lamp.dir

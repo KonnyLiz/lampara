@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/lamp.dir/main.cpp.o  -o lamp -rdynamic -lGLU -lGL -lSM -lICE -lX11 -lXext -lglut -lXmu -lXi 
